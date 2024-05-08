@@ -130,4 +130,6 @@ params = ["categories", "tags"]
     endLevel = 2
     startLevel = 1
   [markup.highlight]
-    style = "dracula"
+    #style = "dracula"
+    style = "monokai"
+
