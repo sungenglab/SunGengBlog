@@ -53,6 +53,17 @@ home = ["HTML", "RSS", "Algolia"]
   # Twikoo comments
   # Follow https://twikoo.js.org/ to set up your own env_id
   twikoo_env_id = "https://qiaoyan-myspace.hf.space"
+  twikoo_region = true
+  enable = false
+  envId = ""
+  region = ""
+  path = ""
+  visitor = true
+  commentCount = true
+  # FixIt 0.2.17 | CHANGED enable lightgallery support
+  lightgallery = false
+  # FixIt 0.2.17 | NEW enable Katex support
+  katex = false
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = true 
