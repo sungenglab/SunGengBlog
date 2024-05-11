@@ -132,4 +132,8 @@ params = ["categories", "tags"]
   [markup.highlight]
     #style = "dracula"
     style = "monokai"
+    codeFences = true
+    guessSyntax = true
+    pygmentsCodefences = true
+    #pygmentsOptions = "linenos=table,style=monokai"
 
