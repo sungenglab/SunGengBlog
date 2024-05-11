@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: about
 multilingual: false
+twikoo: false
 ---
 
 ## About Me

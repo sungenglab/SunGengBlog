@@ -52,6 +52,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Twikoo comments
   # Follow https://twikoo.js.org/ to set up your own env_id
+  twikoo = true
   twikoo_env_id = "https://qiaoyan-myspace.hf.space"
   enableAvatar = true
 
