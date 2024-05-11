@@ -131,9 +131,9 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     #style = "dracula"
-    style = "monokai"
+    style = "github-dark"
     codeFences = true
     guessSyntax = true
     pygmentsCodefences = true
-    pygmentsOptions = "linenos=table,style=monokai"
+    pygmentsOptions = "linenos=table,style=github-dark"
 
