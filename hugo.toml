@@ -135,5 +135,5 @@ params = ["categories", "tags"]
     codeFences = true
     guessSyntax = true
     pygmentsCodefences = true
-    #pygmentsOptions = "linenos=table,style=monokai"
+    pygmentsOptions = "linenos=table,style=monokai"
 
