@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/Interstaller2.jpg"
+  header_image = "img/2024-02-05-Game-04-Wallpaper-small.jpg"
   SEOTitle = "SunGeng Blog"
   description = ""
   keyword = "CUDA，GPU"
