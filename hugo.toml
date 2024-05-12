@@ -25,9 +25,9 @@ home = ["HTML", "RSS", "Algolia"]
   omit_categories = false
 
   # leancloud storage for page view counter
-  page_view_conter = false 
-  leancloud_app_id = ""
-  leancloud_app_key = ""
+  page_view_conter = true
+  leancloud_app_id = "nTSLFsQY6GKmyvyKQMBCBmHo-gzGzoHsz"
+  leancloud_app_key = "3FQbILrA4KnMwgjtcdDSgYH3"
 
   # algolia site search
   algolia_search = true
