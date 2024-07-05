@@ -1,3 +1,5 @@
 ---
-layout: about
----
+layout: notes
+type: notes
+--- 
+
